@@ -24,7 +24,7 @@ This portfolio showcases my journey in **Data Analytics** and demonstrates how I
 
 ## **Table of Contents**
 1. [Portfolio Projects](#portfolio-projects)
-   - [Real Estate Price Prediction](#real-estate-price-prediction)
+   - [Real Estate Price Prediction]([honest_realtor.ipynb](https://github.com/sirojiddin4/Portfolio-Projects/blob/main/honest_realtor.ipynb)
    - [Demographic Mapping](#demographic-mapping)
    - [Fine-Tuning Gemma2 for Uzbek language](#telegram-bot-development)
    - [LLM – Detect AI Generated Text (Kaggle)](#llm--detect-ai-generated-text-kaggle) 
