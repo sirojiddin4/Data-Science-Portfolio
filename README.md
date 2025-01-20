@@ -17,7 +17,8 @@ This portfolio showcases my journey in **Data Analytics** and demonstrates how I
 - **2+ years of experience** in **data visualization**, **web development**, and reporting.  
 - Proven expertise in corporate **corporate communications** and **change management** at Mercedes-Benz AG.  
 
-**[Download My CV (PDF)]([#]([url](https://github.com/sirojiddin4/Data-Analysis-Portfolio/blob/main/Resume%20EN.pdf)))**  
+**([Resume (EN)](https://github.com/sirojiddin4/Data-Analysis-Portfolio/blob/main/Resume%20EN.pdf))**  
+**([Resume (DE)](https://github.com/sirojiddin4/Data-Analysis-Portfolio/blob/main/Resume%20DE.pdf))**  
 
 ---
 
