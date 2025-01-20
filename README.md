@@ -1,17 +1,23 @@
-# **Sirojiddin Boboqulov – Data Analytics & NLP Portfolio**
+# **Sirojiddin Boboqulov – Data Analytics Portfolio**
 
 ## **About Me**
-Hello, I’m **Sirojiddin**—a data enthusiast with a solid background in **English Linguistics** and a passion for **computational linguistics**. As an M.A. student at the University of Bremen, I’m focused on bridging language and data through **NLP** and **multimodal AI** research. This portfolio showcases my journey in data analytics and highlights how I apply **Python**, **SQL**, and other tools to uncover meaningful insights.
+Hello, I’m **Sirojiddin**—I hold a Bachelor's degree in **English Linguistics and Pedagogy** and am currently pursuing an M.A. in **English Speaking Cultures** at the University of Bremen. I have developed solid knowledge in **Data Analytics** through both academic and professional experiences, including my roles as:  
+- **Founder** at Downtown LC, where I led operations, curriculum development, and business analysis.  
+- **Digital Analytics Manager** at Sodiq Academy, where I specialized in data-driven solutions for educational projects.  
 
+During these roles, I successfully solved practical business problems through meaningful analysis, applying knowledge gained from hands-on experience and independent learning.  
+
+*(Click here to see the certificates.)*
+
+This portfolio showcases my journey in **Data Analytics** and demonstrates how I leverage tools like **Python**, **SQL**, and others to uncover meaningful insights and drive impactful decisions.
 
 ---
 
 ## **Professional Summary**
 - **2+ years of experience** in **data visualization**, **web development**, and reporting.  
-- Proven expertise in corporate communications and **change management** at Mercedes-Benz AG.  
-- Passionate about **NLP**, **machine learning**, and bridging the gap between data insights and strategic decision-making.
+- Proven expertise in corporate **corporate communications** and **change management** at Mercedes-Benz AG.  
 
-**[Download My CV (PDF)](#)**  
+**[Download My CV (PDF)]([#]([url](https://github.com/sirojiddin4/Data-Analysis-Portfolio/blob/main/Resume%20EN.pdf)))**  
 
 ---
 
@@ -90,7 +96,7 @@ Hello, I’m **Sirojiddin**—a data enthusiast with a solid background in **Eng
 ---
 
 ## **Contact**
-- **LinkedIn**: [Your LinkedIn URL]  
+- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/sirojiddinbobokulov/)]  
 - **Email**: [Your Email Address]  
 
 > Let’s connect to discuss projects, collaborate on challenges, or explore professional opportunities. I’m always excited to exchange ideas and learn from fellow data enthusiasts!  
