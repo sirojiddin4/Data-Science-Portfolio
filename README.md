@@ -27,8 +27,7 @@ This portfolio showcases my journey in **Data Science and Analytics** and demons
 ## **Table of Contents**
 1. [Portfolio Projects](#portfolio-projects)
    - [Real Estate Price Prediction](https://github.com/sirojiddin4/Portfolio-Projects/blob/main/honest_realtor.ipynb)
-   - [Demographic Mapping](#demographic-mapping)
-   - [Fine-Tuning Gemma2 for Uzbek language](#telegram-bot-development)
+   - [Fine-Tuning Gemma2 for Uzbek language](https://github.com/sirojiddin4/Portfolio-Projects/blob/main/Fine-Tuning_Gemma2_for_Uzbek_language.ipynb)
    - [LLM – Detect AI Generated Text (Kaggle)](#llm--detect-ai-generated-text-kaggle) 
    - [Master Thesis: Exploring Sarcasm Detection](#master-thesis-exploring-sarcasm-detection)  
    - [Telegram Bot Development](#telegram-bot-development)
@@ -57,8 +56,8 @@ This portfolio showcases my journey in **Data Science and Analytics** and demons
 ---
 
 ## **Contact**
-- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/sirojiddinbobokulov/)]  
-- **Email**: [Your Email Address]  (mailto:boboqulovsirojiddin4@gmail.com)
+- **LinkedIn**: [Click here to open my LinkedIn page](https://www.linkedin.com/in/sirojiddinbobokulov/)]  
+- **Email**: [Click here to contact via Email](mailto:boboqulovsirojiddin4@gmail.com)
 
 > Let’s connect to discuss projects, collaborate on challenges, or explore professional opportunities. I’m always excited to exchange ideas and learn from fellow data enthusiasts!  
 > Check out my repositories for detailed code samples and demos.
