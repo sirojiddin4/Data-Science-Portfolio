@@ -9,8 +9,6 @@ During these roles, I successfully solved practical business problems through me
 
 My Master's thesis research focuses on the evaluation of GPT-based AI models for complex linguistic tasks in multimodal contexts. I have also gained extensive technical knowledge through independent learning.
 
-*(Click here to see the certificates.)*
-
 This portfolio showcases my journey in **Data Science and Analytics** and demonstrates how I leverage tools like **Python**, **SQL**, and others to uncover meaningful insights and drive impactful decisions.
 
 ---
