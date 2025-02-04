@@ -28,7 +28,6 @@ This portfolio showcases my journey in **Data Science and Analytics** and demons
    - [Fine-Tuning Gemma2 for Uzbek language](https://github.com/sirojiddin4/Portfolio-Projects/blob/main/Fine-Tuning_Gemma2_for_Uzbek_language.ipynb)
    - [LLM – Detect AI Generated Text (Kaggle)](#llm--detect-ai-generated-text-kaggle) 
    - [Master Thesis: Exploring Sarcasm Detection](#master-thesis-exploring-sarcasm-detection)  
-   - [Telegram Bot Development](#telegram-bot-development)
 
 3. [Certificates](#certificates)  
 4. [Contact](#contact)  
