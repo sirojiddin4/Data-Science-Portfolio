@@ -1,4 +1,4 @@
-# **Sirojiddin Boboqulov – Data Analytics Portfolio**
+# **Sirojiddin Boboqulov – Data Science Portfolio**
 
 ## **About Me**
 Hello, I’m **Sirojiddin**—I hold a Bachelor's degree in **English Linguistics and Pedagogy** and am currently pursuing an M.A. in **English Speaking Cultures** at the University of Bremen. I have developed solid knowledge in **Data Science/Analytics** through both academic and professional experiences, including my roles as:  
