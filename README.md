@@ -26,7 +26,7 @@ This portfolio showcases my journey in **Data Science and Analytics** and demons
 1. [Portfolio Projects](#portfolio-projects)
    - [Real Estate Price Prediction](https://github.com/sirojiddin4/Portfolio-Projects/blob/main/honest_realtor.ipynb)
    - [Fine-Tuning Gemma2 for Uzbek language](https://github.com/sirojiddin4/Portfolio-Projects/blob/main/Fine-Tuning_Gemma2_for_Uzbek_language.ipynb)
-   - [Master Thesis: Exploring Sarcasm Detection]([#master-thesis-exploring-sarcasm-detection](https://github.com/sirojiddin4/Portfolio-Projects/blob/7a88e5a23a33c8d118b823b946dab782b7f30e00/Master%20Thesis.ipynb))  
+   - [Master Thesis: Exploring Sarcasm Detection](https://github.com/sirojiddin4/Portfolio-Projects/blob/7a88e5a23a33c8d118b823b946dab782b7f30e00/Master%20Thesis.ipynb)  
 
 3. [Certificates](#certificates)  
 4. [Contact](#contact)  
