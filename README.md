@@ -33,7 +33,7 @@ This portfolio showcases my journey in **Data Science and Analytics** and demons
 
 ---
 
-## **Certificates**
+## **[Certificates](https://www.linkedin.com/in/sirojiddinbobokulov/details/certifications?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADz4BiABl9ftuQvAAvcXXllDeDGd3H1Gss0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BXBXKfX%2FTAuxU8WaJ3E5Lw%3D%3D)**
 
 - **Google Data Analytics Specialization** | Google (Feb 2023)  
 - **Meta Back-End Developer Specialization** | Meta  
